@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anasask2001/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/anasask2001/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anasask2001/LeetCode/tree/master/0029-divide-two-integers) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/anasask2001/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
