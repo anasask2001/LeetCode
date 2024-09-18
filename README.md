@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/anasask2001/LeetCode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/anasask2001/LeetCode/tree/master/0414-third-maximum-number) |
 | [2634-minimum-common-value](https://github.com/anasask2001/LeetCode/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/anasask2001/LeetCode/tree/master/2634-minimum-common-value) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/anasask2001/LeetCode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
