@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/anasask2001/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/anasask2001/LeetCode/tree/master/0414-third-maximum-number) |
+| [2058-concatenation-of-array](https://github.com/anasask2001/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2634-minimum-common-value](https://github.com/anasask2001/LeetCode/tree/master/2634-minimum-common-value) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anasask2001/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
@@ -62,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/anasask2001/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anasask2001/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
