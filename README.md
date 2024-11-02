@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/anasask2001/LeetCode/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/anasask2001/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/anasask2001/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anasask2001/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/anasask2001/LeetCode/tree/master/0414-third-maximum-number) |
 | [2058-concatenation-of-array](https://github.com/anasask2001/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/anasask2001/LeetCode/tree/master/2502-sort-the-people) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anasask2001/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/anasask2001/LeetCode/tree/master/2634-minimum-common-value) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anasask2001/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/anasask2001/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
