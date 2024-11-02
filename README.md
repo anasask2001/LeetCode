@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/anasask2001/LeetCode/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/anasask2001/LeetCode/tree/master/2634-minimum-common-value) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anasask2001/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/anasask2001/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
