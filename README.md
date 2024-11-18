@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2058-concatenation-of-array](https://github.com/anasask2001/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anasask2001/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/anasask2001/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
